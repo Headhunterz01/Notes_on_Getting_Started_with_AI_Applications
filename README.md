@@ -17,7 +17,7 @@
 <h1 id="english">🇬🇧 Python & AI Practice Tutorial</h1>
 This project is a comprehensive guide for AI vision and LLM development, covering the entire pipeline from basic image processing to deep learning model deployment.
 
-**🚀 Core Modules**:
+** Core Modules**:
 - **Computer Vision**: Face detection, 68-point landmark localization, head pose estimation, and pedestrian tracking using OpenCV / DLib.
 - **Deep Learning**: Image classification, object detection (YOLO/RCNN), and end-to-end data annotation & training workflows via FastDeploy / PaddlePaddle.
 - **App & Deployment**: Rapid Gradio Web UI creation, Tkinter desktop GUI development, and local LLM (Ollama / PaddleNLP) Agent integration.
